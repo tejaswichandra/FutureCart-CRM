@@ -1,0 +1,67 @@
+[info] Packaging C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\futurecartbatchload_2.11-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyPivotLoad.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyPivotLoad.class
+[debug] 	com\edureka\futurecart\dim
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\dim
+[debug] 	com\edureka\futurecart\fact\FactCaseSurveyDaily.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\FactCaseSurveyDaily.class
+[debug] 	com\edureka\futurecart\dim\DimSparkApp.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\dim\DimSparkApp.class
+[debug] 	com\edureka\futurecart\dim\RetailCartDimLoad$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\dim\RetailCartDimLoad$.class
+[debug] 	com\edureka\retailcart\dim\DimSparkApp.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\dim\DimSparkApp.class
+[debug] 	com\edureka\futurecart\fact\FactSparkApp.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\FactSparkApp.class
+[debug] 	com\edureka\retailcart
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart
+[debug] 	com\edureka\futurecart
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart
+[debug] 	com\edureka\retailcart\dim\DimSparkApp$class.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\dim\DimSparkApp$class.class
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyFactLoad$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyFactLoad$.class
+[debug] 	com\edureka\retailcart\dim\RetailCartDimLoad$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\dim\RetailCartDimLoad$.class
+[debug] 	com\edureka
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka
+[debug] 	com\edureka\futurecart\fact
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact
+[debug] 	com\edureka\retailcart\fact
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyPivotLoad$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyPivotLoad$.class
+[debug] 	com\edureka\futurecart\dim\RetailCartDimLoad.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\dim\RetailCartDimLoad.class
+[debug] 	com\edureka\retailcart\dim\RetailCartDimLoad.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\dim\RetailCartDimLoad.class
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyHistLoad$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyHistLoad$.class
+[debug] 	com\edureka\futurecart\fact\FactSparkApp$class.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\FactSparkApp$class.class
+[debug] 	com
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com
+[debug] 	com\edureka\futurecart\dim\DimSparkApp$class.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\dim\DimSparkApp$class.class
+[debug] 	com\edureka\futurecart\fact\PivotFactCaseSurveyDaily.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\PivotFactCaseSurveyDaily.class
+[debug] 	com\edureka\futurecart\fact\FactCaseSurveyDaily$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\FactCaseSurveyDaily$.class
+[debug] 	com\edureka\retailcart\fact\FactSparkApp.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\FactSparkApp.class
+[debug] 	com\edureka\retailcart\dim
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\dim
+[debug] 	com\edureka\retailcart\fact\FactSparkApp$class.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\FactSparkApp$class.class
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyHistLoad.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyHistLoad.class
+[debug] 	com\edureka\futurecart\fact\PivotFactCaseSurveyDaily$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\futurecart\fact\PivotFactCaseSurveyDaily$.class
+[debug] 	com\edureka\retailcart\fact\StoreItemSalesDailyFactLoad.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemSalesDailyFactLoad.class
+[debug] 	com\edureka\retailcart\fact\StoreItemPriceChangeDailyHist$.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemPriceChangeDailyHist$.class
+[debug] 	com\edureka\retailcart\fact\StoreItemPriceChangeDailyHist.class
+[debug] 	  C:\Users\Tejaswi\Documents\intellij projects\futurecartbatchload\target\scala-2.11\classes\com\edureka\retailcart\fact\StoreItemPriceChangeDailyHist.class
+[info] Done packaging.
