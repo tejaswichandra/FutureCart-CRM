@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZrGWm8se9w84mv1P5TLjmlqIZd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../futurecartbatchload" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\java\guru\learningjournal\kafka\examples" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\java" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer\src\main\resources" />
+      <recent name="C:\Udemy\FinalProjects\02-hello-producer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CaseProducer">
+    <configuration name="CaseProducer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.edureka.futurecart.stream.driver.cases.CaseProducer" />
+      <module name="futurecart" />
+      <option name="PROGRAM_PARAMETERS" value="topic case  C:\Users\Tejaswi\Desktop\pwc1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edureka.retailcart.stream.driver.TestJson" />
+      <module name="futurecart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edureka.retailcart.stream.driver.survey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edureka.futurecart.stream.driver.TestJson" />
+      <module name="futurecart" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Tejaswi\Desktop\pwc1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edureka.futurecart.stream.driver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edureka.futurecart.stream.TestProducer" />
+      <module name="futurecart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edureka.futurecart.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStreamAgg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edureka.futurecart.stream.TestStreamAgg" />
+      <module name="futurecart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edureka.futurecart.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zookeeper-start" type="BatchConfigurationType" factoryName="Batch">
+      <module name="retailcart-kafka-ingestion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Tejaswi\Documents\intellij projects\02-hello-producer\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="zookeeper-start.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CaseProducer" />
+      <item itemvalue="Application.TestJson" />
+      <item itemvalue="Application.TestStreamAgg" />
+      <item itemvalue="Application.TestProducer" />
+      <item itemvalue="Batch.zookeeper-start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestJson" />
+        <item itemvalue="Application.TestStreamAgg" />
+        <item itemvalue="Application.TestProducer" />
+        <item itemvalue="Application.TestJson" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82780788-e282-40d8-95e0-bd30bb9761cc" name="Default Changelist" comment="" />
+      <created>1562846696107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562846696107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1585589925285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585589925285" />
+    <state x="495" y="81" key="#SalesProducer" timestamp="1590319733643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="81" key="#SalesProducer/0.0.1536.824@0.0.1536.824" timestamp="1590319733643" />
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586121626947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586121626947" />
+    <state x="330" y="89" width="1089" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593937115693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="89" width="1089" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593937115693" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593936557683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593936557683" />
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586031773089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586031773089" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1591045513884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591045513884" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1593940385261">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593940385260" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1593940385260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593940385260" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1593940385260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593940385260" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1593940385260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593940385260" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1591908383629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1591908383629" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1585844870710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585844870710" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1585591208745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585591208745" />
+    <state x="499" y="175" key="extract.method.dialog" timestamp="1586085176321">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="175" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1586085176321" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1590325465146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.824@0.0.1536.824" timestamp="1590325465146" />
+    <state x="209" y="78" key="new project wizard" timestamp="1586342985595">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="78" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586342985595" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1590338411507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590338411507" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585736030590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585736030590" />
+  </component>
+</project>
