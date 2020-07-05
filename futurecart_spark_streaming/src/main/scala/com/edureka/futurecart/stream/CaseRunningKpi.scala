@@ -4,6 +4,7 @@ import org.apache.spark.sql.{ForeachWriter, Row, SparkSession}
 import org.apache.spark.sql.types.{StringType, StructField, StructType}
 import org.apache.spark.sql.functions.{expr, from_json, col, sum}
 import org.apache.spark.sql.streaming.ProcessingTime
+import com.edureka.futurecart.stream.{AppConfig => AC}
 
 import scala.sys.process._
 
@@ -11,7 +12,7 @@ import scala.sys.process._
 object CaseRunningKpi {
 
   def preProcess(): Unit = {
-    val command = "hadoop fs -rm -r -f -skipTrash /user/edureka_921625/*"
+    val command = "hadoop fs -rm -r -f -skipTrash /user/edureka_921625/realtime/*"
     Process(command)!
   }
 
@@ -24,7 +25,7 @@ object CaseRunningKpi {
 
     val spark = SparkSession
       .builder
-      .appName("retail_cart_running_kpi")
+      .appName("futurecart_running_kpi")
       .master("local[*]")
       .getOrCreate()
 
@@ -99,7 +100,7 @@ object CaseRunningKpi {
       .format("console")
       .option("truncate","false")
       .option("numRows","10000")
-      .option("checkpointLocation", "/user/edureka_921625/%s".format(AC.running_cases_kpis_loc))
+      .option("checkpointLocation", "/user/edureka_921625/realtime/%s".format(AC.running_cases_kpis_loc))
       .trigger(ProcessingTime("20 seconds"))
       .start()
 
@@ -109,7 +110,7 @@ object CaseRunningKpi {
       .format("console")
       .option("truncate","false")
       .option("numRows","10000")
-      .option("checkpointLocation", "/user/edureka_921625/%s".format(AC.running_cases_kpis_priority_loc))
+      .option("checkpointLocation", "/user/edureka_921625/realtime/%s".format(AC.running_cases_kpis_priority_loc))
       .trigger(ProcessingTime("20 seconds"))
       .start()
 
